@@ -1,1 +1,2 @@
 This is wangbranch file
+This is 2 times edit wangbranch
